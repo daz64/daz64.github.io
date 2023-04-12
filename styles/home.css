@@ -1,0 +1,577 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+.desktop-1-onD {
+  width: 100%;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background: radial-gradient(161.04% 89.16% at 83.65% 0%, #d1f5d4 25.15%, #ffffff 100%);
+}
+.desktop-1-onD .auto-group-jitu-hch {
+  width: 147rem;
+  height: 117.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-onD .auto-group-jitu-hch .ic-sharp-arrow-upward-8i1 {
+  box-sizing: border-box;
+  padding-top: 5.7rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 116.6rem;
+  top: 76rem;
+  overflow: hidden;
+}
+.desktop-1-onD .auto-group-jitu-hch .ic-sharp-arrow-upward-8i1 .rectangle-45-DDf {
+  width: 144rem;
+  height: 21.2rem;
+  background-color: #f7fef9;
+}
+.desktop-1-onD .auto-group-jitu-hch .rectangle-1-KnV {
+  width: 144.9rem;
+  height: 68.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f7fef8;
+}
+.desktop-1-onD .auto-group-jitu-hch .rectangle-46-RKj {
+  width: 144.9rem;
+  height: 21rem;
+  position: absolute;
+  left: 0;
+  top: 81.9rem;
+  background-color: #f7fef9;
+}
+.desktop-1-onD .auto-group-jitu-hch .rectangle-48-Xdf {
+  width: 144.9rem;
+  height: 21rem;
+  position: absolute;
+  left: 0;
+  top: 89.5rem;
+  background-color: #f7fef9;
+}
+.desktop-1-onD .auto-group-jitu-hch .rectangle-47-rA9 {
+  width: 144.9rem;
+  height: 21rem;
+  position: absolute;
+  left: 0;
+  top: 81.9rem;
+  background-color: #f7fef9;
+}
+.desktop-1-onD .auto-group-jitu-hch .rectangle-22-YHs {
+  width: 147rem;
+  height: 84.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: radial-gradient(183.88% 98.41% at 16.9% 15.79%, #e9f8e0 7.29%, rgba(214, 241, 245, 0.8745684028) 39.82%, rgba(210, 237, 241, 0.991422832) 44.09%, #eaf9e0 78.13%);
+}
+
+
+.desktop-1-onD .auto-group-jitu-hch .about-me-dt1 {
+  width: 15.8rem;
+  height: 4.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 137rem;
+  top: 2.9rem;
+  text-decoration: underline;
+  font-weight: 600;
+  font-size: 3.2rem;
+  line-height: 1.5;
+  color: #4d4d4d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-onD .auto-group-jitu-hch .resources-Znd {
+  width: 15.8rem;
+  height: 4.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 150rem;
+  top: 2.9rem;
+  font-size: 3.2rem;
+  line-height: 1.5;
+  color: #4d4d4d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-onD .auto-group-jitu-hch .faq-eZB {
+  width: 5.4rem;
+  height: 4.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 170rem;
+  top: 2.9rem;
+  font-size: 3.2rem;
+  line-height: 1.5;
+  color: #4d4d4d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-onD .auto-group-jitu-hch .warmbot-KfK {
+  width: 54.3rem;
+  height: 16.8rem;
+  position: absolute;
+  left: 6.35rem;
+  top: 0.3rem;
+  text-align: center;
+  font-size: 11.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #353535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-onD .auto-group-jitu-hch .union-QAy {
+  width: 22.2rem;
+  height: 1rem;
+  position: absolute;
+  left: 6.8rem;
+  top: 65.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-onD .auto-group-jitu-hch .union-v9K {
+  width: 24.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 61.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-onD .auto-group-jitu-hch .emergency-resources--e5K {
+  width: 24rem;
+  height: 9rem;
+  position: absolute;
+  left: 6.1rem;
+  top: 57.7rem;
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.125;
+  color: #353535;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-onD .auto-group-jitu-hch .emergency-services-W7X {
+  width: 19rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 40.4rem;
+  top: 58.7rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #353535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-onD .auto-group-jitu-hch .suicide-prevention-hotline-mJM {
+  width: 24.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 40.4rem;
+  top: 68.1rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #353535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-onD .auto-group-jitu-hch .your-safe-space-for-anxious-thoughts-njF {
+  width: 46.7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 14.6rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #353535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-onD .auto-group-jitu-hch .im-so-glad-youre-here-if-im-going-to-get-to-know-you-then-its-only-fair-i-tell-you-a-bit-about-myself-too-i-am-an-empathetic-chatbot-who-was-created-by-four-college-students-that-wanted-to-provide-a-24-7-companion-for-anyone-who-needs-it-ncm {
+  width: 122.9rem;
+  height: 9rem;
+  position: absolute;
+  left: 6rem;
+  top: 93.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #4e4d4d;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-onD .auto-group-jitu-hch .frame-1-6G5 {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 10.4rem;
+  overflow: hidden;
+}
+.desktop-1-onD .auto-group-jitu-hch .rectangle-20-zMT {
+  width: 50rem;
+  height: 58.8rem;
+  position: absolute;
+  left: 107rem;
+  top: 18.1rem;
+  border: solid 1rem #70a1b0;
+  box-sizing: border-box;
+  box-shadow: 1.5rem 1.5rem 0.2rem rgba(0, 0, 0, 0.5);
+  background-color: #d7eeff;
+  border-radius: 1rem;
+}
+.desktop-1-onD .auto-group-jitu-hch .rectangle-21-RSm {
+  width: 43rem;
+  height: 51.4rem;
+  position: absolute;
+  left: 110rem;
+  top: 21.8rem;
+  box-shadow: 0.5rem 0.5rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #eef3f0;
+  border-radius: 0.5rem;
+}
+.desktop-1-onD .auto-group-jitu-hch .union-6J1 {
+  width: 46.919rem;
+  height: 10.9876rem;
+  position: absolute;
+  left: 30.3916rem;
+  top: 26.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-onD .auto-group-jitu-hch .group-2-z8V {
+  width: 3.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 89.1rem;
+  top: 34.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-onD .auto-group-jitu-hch .group-3-VL9 {
+  width: 3.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 89.1rem;
+  top: 41.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-onD .auto-group-jitu-hch .group-4-obj {
+  width: 3.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 89.1rem;
+  top: 57.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-onD .auto-group-jitu-hch .union-hh7 {
+  width: 30.1475rem;
+  height: 7.099rem;
+  position: absolute;
+  left: 92rem;
+  top: 28.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-onD .auto-group-jitu-hch .union-pWq {
+  width: 30.2594rem;
+  height: 7.2998rem;
+  position: absolute;
+  left: 92.0406rem;
+  top: 35.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-onD .auto-group-jitu-hch .rectangle-19-wLZ {
+  width: 7.5696rem;
+  height: 6.5988rem;
+  position: absolute;
+  left: 90.4rem;
+  top: 53.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.desktop-1-onD .auto-group-jitu-hch .union-bAD {
+  width: 27.4309rem;
+  height: 8.7669rem;
+  position: absolute;
+  left: 94.8285rem;
+  top: 47.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-onD .auto-group-jitu-hch .union-3nu {
+  width: 35.2935rem;
+  height: 4.0927rem;
+  position: absolute;
+  left: 95.9rem;
+  top: 42.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-onD .auto-group-jitu-hch .union-Jyj {
+  width: 35.2929rem;
+  height: 4.0927rem;
+  position: absolute;
+  left: 95.9rem;
+  top: 23.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-onD .auto-group-jitu-hch .hello-im-warmbot-1t9 {
+  width: 29.1rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 42rem;
+  top: 29.2rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #d7eeff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-onD .auto-group-jitu-hch .hi-luke-im-sorry-to-hear-that-youre-feeling-anxious-GJH {
+  width: 24.7rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 96.6rem;
+  top: 29.2rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #d7eeff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-onD .auto-group-jitu-hch .are-you-somewhere-safe-right-now-us3 {
+  width: 22.4rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 96.4rem;
+  top: 36rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #d7eeff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-onD .auto-group-jitu-hch .i-am-really-glad-to-hear-that-is-there-any-particular-reason-youre-feeling-anxious-today-ztV {
+  width: 25.6rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 96.6rem;
+  top: 48.6rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #d7eeff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-onD .auto-group-jitu-hch .hi-im-feeling-really-anxious-right-now-3bs {
+  width: 27.9rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 97.2rem;
+  top: 24.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #71a1b1;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-onD .auto-group-jitu-hch .yes-87X {
+  width: 2.9rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 97.2rem;
+  top: 43.7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #71a1b1;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-onD .auto-group-jitu-hch .union-1x1 {
+  width: 46.8753rem;
+  height: 11.152rem;
+  position: absolute;
+  left: 30.4116rem;
+  top: 39.6478rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-onD .auto-group-jitu-hch .and-im-always-here-for-you--8Wq {
+  width: 22.9rem;
+  height: 13.5rem;
+  position: absolute;
+  left: 44.75rem;
+  top: 40.7rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #d7eeff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-onD .auto-group-jitu-hch .rectangle-25-1Kj {
+  width: 39.3rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 91rem;
+  top: 64.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f7fef9;
+  border-radius: 0.5rem;
+}
+.desktop-1-onD .auto-group-jitu-hch .type-your-response-here-VVo {
+  width: 18.9rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 92.6rem;
+  top: 66.7rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.5;
+  font-style: italic;
+  color: #71a1b1;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-onD .auto-group-jitu-hch .ellipse-12-smF {
+  width: 3.1rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 126rem;
+  top: 66.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-onD .auto-group-jitu-hch .arrow-circle-up-2-1-Xau {
+  width: 2.6rem;
+  height: 2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 126.3rem;
+  top: 66.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-onD .auto-group-jitu-hch .rectangle-27-Q8u {
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  left: 38.1rem;
+  top: 59.5rem;
+  background-color: #bce8f6;
+  border-radius: 0.2rem;
+}
+.desktop-1-onD .auto-group-jitu-hch .rectangle-28-VRF {
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  left: 38.1rem;
+  top: 68.9rem;
+  background-color: #bce8f6;
+  border-radius: 0.2rem;
+}
+.desktop-1-onD .auto-group-jitu-hch .dial-this-number-if-you-are-in-need-of-police-or-emergency-medical-services-for-mental-health-yLR {
+  width: 27.5rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 40.6rem;
+  top: 61.3rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-onD .auto-group-jitu-hch .if-you-are-thinking-about-harming-yourself-and-seeking-free-and-confidential-emotional-support-to-people-in-crisis-D8H {
+  width: 32.7rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 40.4rem;
+  top: 71rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-onD .auto-group-jitu-hch .item--Ep5 {
+  width: 7.5758rem;
+  height: 5.839rem;
+  position: absolute;
+  left: 61.8rem;
+  top: 6.1683rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-onD .auto-group-jitu-hch .group-6-8eZ {
+  width: 22.2rem;
+  height: 26.6rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 26.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-onD .auto-group-jitu-hch .read-more-qYy {
+  width: 7.4rem;
+  height: 2.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 124.8rem;
+  top: 96.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #4e4d4d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-onD .rectangle-3-u33 {
+  margin: 0rem 10.5rem 4rem 0rem;
+  width: 4rem;
+  height: 3rem;
+  border: solid 1rem #70a1b0;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #c9e8ff;
+  flex-shrink: 0;
+}
+
+#input1 { 
+  margin-top: 108%;
+  margin-left: 0%;
+  width: 350px;
+  height: 50px;
+  border: solid .2px #70a1b0;
+  text-indent: 5px;
+}

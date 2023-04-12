@@ -1,0 +1,884 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+.desktop-2-3FT {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background: radial-gradient(203.23% 121.53% at 50% 20.01%, #d1f5d4 25.15%, #f3caec 100%);
+}
+.desktop-2-3FT .auto-group-7yzy-wrd {
+  margin: 0rem 58.5rem 0.5rem 0rem;
+  width: 147rem;
+  height: 109.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-1-MQZ {
+  width: 144.9rem;
+  height: 68.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f7fef8;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-24-Swo {
+  width: 145.5rem;
+  height: 40.4rem;
+  position: absolute;
+  left: 50;
+  top: 62rem;
+  background-color: #f7fef9;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-22-LXP {
+  width: 147rem;
+  height: 82rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: radial-gradient(181.75% 111.77% at 102.21% -3.78%, #ffeffc 0%, rgba(222, 241, 210, 0.991422832) 43.04%, rgba(222, 241, 210, 0.8745684028) 50.99%, #ffeffc 100%);
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-49-VHo {
+  width: 147rem;
+  height: 82rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: radial-gradient(183.88% 98.41% at 16.9% 15.79%, #e9f8e0 7.29%, rgba(214, 241, 245, 0.8745684028) 39.82%, rgba(210, 237, 241, 0.991422832) 44.09%, #eaf9e0 78.13%);
+}
+
+.about-me-dt1 {
+  width: 15.8rem;
+  height: 4.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 137rem;
+  top: 2.9rem;
+  text-decoration: underline;
+  font-size: 3.2rem;
+  line-height: 1.5;
+  color: #4d4d4d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+ .resources-Znd {
+  width: 15.8rem;
+  height: 4.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 150rem;
+  top: 2.9rem;
+  font-weight: 600;
+  font-size: 3.2rem;
+  line-height: 1.5;
+  color: #4d4d4d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.faq-eZB {
+  width: 5.4rem;
+  height: 4.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 170rem;
+  top: 2.9rem;
+  font-size: 3.2rem;
+ 
+  line-height: 1.5;
+  color: #4d4d4d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .faq-aVb {
+  width: 5.4rem;
+  height: 4.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 129.1rem;
+  top: 2.9rem;
+  font-size: 3.2rem;
+  line-height: 1.5;
+  color: #4d4d4d;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-31-ri1 {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 19.9rem;
+  top: 34.2rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #71a1b1;
+  border-radius: 2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-39-vSy {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 54.7rem;
+  top: 34rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bce8f6;
+  border-radius: 2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .substance-abuse-and-mental-health-services-administration-QN9 {
+  width: 33.6rem;
+  height: 5.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.9rem;
+  top: 17.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #353535;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .us-warm-line-directory-GQM {
+  width: 23.7rem;
+  height: 2.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 54.7rem;
+  top: 17.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #353535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .samhsas-national-helpline-is-a-free-confidential-24-7-365-day-a-year-treatment-referral-and-information-service-in-english-and-spanish-for-individuals-and-families-facing-mental-and-or-substance-use-disorders-fhP {
+  width: 35.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 24.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .samhsas-national-helpline-is-a-free-confidential-24-7-365-day-a-year-treatment-referral-and-information-service-in-english-and-spanish-for-individuals-and-families-facing-mental-and-or-substance-use-disorders-fhP .samhsas-national-helpline-is-a-free-confidential-24-7-365-day-a-year-treatment-referral-and-information-service-in-english-and-spanish-for-individuals-and-families-facing-mental-and-or-substance-use-disorders-fhP-sub-0 {
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .samhsas-national-helpline-is-a-free-confidential-24-7-365-day-a-year-treatment-referral-and-information-service-in-english-and-spanish-for-individuals-and-families-facing-mental-and-or-substance-use-disorders-fhP .samhsas-national-helpline-is-a-free-confidential-24-7-365-day-a-year-treatment-referral-and-information-service-in-english-and-spanish-for-individuals-and-families-facing-mental-and-or-substance-use-disorders-fhP-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .samhsas-national-helpline-is-a-free-confidential-24-7-365-day-a-year-treatment-referral-and-information-service-in-english-and-spanish-for-individuals-and-families-facing-mental-and-or-substance-use-disorders-fhP .samhsas-national-helpline-is-a-free-confidential-24-7-365-day-a-year-treatment-referral-and-information-service-in-english-and-spanish-for-individuals-and-families-facing-mental-and-or-substance-use-disorders-fhP-sub-2 {
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .need-to-talk-to-a-real-person-this-frequently-updated-warm-line-directory-provides-information-pertaining-to-various-human-operated-call-and-text-outreach-services-based-in-most-us-states-warm-lines-listed-in-red-are-nationally-accessible-and-welcome-calls-from-anywhere-Br5 {
+  width: 34rem;
+  height: 9rem;
+  position: absolute;
+  left: 54.7rem;
+  top: 23.3rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-30-L6h {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 34.2rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bce8f6;
+  border-radius: 2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .helpline-zS9 {
+  width: 5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 10.5rem;
+  top: 35rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .live-talk-t1j {
+  width: 5.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 57.1rem;
+  top: 34.8rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .families-m5X {
+  width: 5.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 35rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-40-ppV {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 66.7rem;
+  top: 34rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #71a1b1;
+  border-radius: 2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-41-29s {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 78.7rem;
+  top: 34rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #b9d3c9;
+  border-radius: 2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-48-sAV {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 31.9rem;
+  top: 34.2rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #b9d3c9;
+  border-radius: 2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-47-ww3 {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 125.3rem;
+  top: 65.2rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #b9d3c9;
+  border-radius: 2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-46-RLR {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 125rem;
+  top: 34rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #b9d3c9;
+  border-radius: 2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-45-Jv1 {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 78.7rem;
+  top: 66rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #b9d3c9;
+  border-radius: 2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .item-24-7-PgZ {
+  width: 2.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 35.3rem;
+  top: 35rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .call-UCD {
+  width: 2.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 70.4rem;
+  top: 34.9rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .text-x7P {
+  width: 2.6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 82.4rem;
+  top: 34.8rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .youth-help-SYM {
+  width: 6.7rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 80.3rem;
+  top: 66.8rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .supporting-our-valued-adolescents-sova-7eV {
+  width: 33.5rem;
+  height: 5.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 8rem;
+  top: 49.2rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #353535;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .sova-is-a-free-online-services-for-adolescents-suffering-from-symptoms-of-anxiety-and-depression-simply-create-an-account-and-view-blogs-about-these-topics-or-participate-in-forums-to-learn-about-how-you-can-take-steps-in-the-right-direction-ZmP {
+  width: 34.2rem;
+  height: 9rem;
+  position: absolute;
+  left: 8rem;
+  top: 54.9rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-32-dPs {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 8rem;
+  top: 66rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bce8f6;
+  border-radius: 2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .website-gd3 {
+  width: 5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 10.5rem;
+  top: 66.8rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-33-AHK {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 20rem;
+  top: 66rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #71a1b1;
+  border-radius: 2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .pitt-based-quF {
+  width: 6.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 21.7rem;
+  top: 66.8rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-42-iy3 {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 32rem;
+  top: 66rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #b8d2c9;
+  border-radius: 2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .blog-Qay {
+  width: 2.7rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 35.6rem;
+  top: 66.8rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .pennsylvania-mental-health-resources-for-children-VMX {
+  width: 36rem;
+  height: 5.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 55rem;
+  top: 48.7rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #353535;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .for-crisis-situations-that-are-not-life-threatening-find-mental-and-behavioral-health-resources-and-other-information-close-to-you-this-site-contains-a-collections-of-mental-health-resources-specific-to-pa-kHT {
+  width: 35.5rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 55.2rem;
+  top: 55.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-34-LmT {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 54.8rem;
+  top: 66rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bce8f6;
+  border-radius: 2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .mental-health-pwX {
+  width: 8.6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 55.7rem;
+  top: 66.8rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-35-fBT {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 66.8rem;
+  top: 66rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #71a1b1;
+  border-radius: 2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .resources-qVF {
+  width: 6.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 68.5rem;
+  top: 66.8rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .international-bipolar-foundation-9-tips-to-help-you-get-through-a-panic-attack-iow {
+  width: 37.3rem;
+  height: 5.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 101.3rem;
+  top: 48.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #353535;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .the-international-bipolar-foundation-offers-a-list-of-helpful-suggestions-for-how-to-cope-with-panic-attacks-and-anxiety-they-recommend-exploring-the-idea-of-reaching-out-to-a-mental-health-professional-for-continued-assistance-Yny {
+  width: 34.5rem;
+  height: 9rem;
+  position: absolute;
+  left: 101.5rem;
+  top: 54.9rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-36-j6m {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 101.3rem;
+  top: 65.2rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bce8f6;
+  border-radius: 2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .tips-cgM {
+  width: 2.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 128.9rem;
+  top: 65.9rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-37-WWq {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 113.3rem;
+  top: 65.2rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #71a1b1;
+  border-radius: 2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .regulation-Pad {
+  width: 6.7rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 114.9rem;
+  top: 66rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .crisis-center-north-TaV {
+  width: 17.9rem;
+  height: 2.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 101.3rem;
+  top: 17.6rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #353535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .a-collection-of-resources-for-pittsburgh-residents-these-include-social-care-counseling-hotlines-support-networks-and-support-groups-crisis-center-north-can-be-easily-reached-on-the-web-but-they-host-in-person-events-as-well-XqF {
+  width: 33.3rem;
+  height: 9rem;
+  position: absolute;
+  left: 101.3rem;
+  top: 22.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-43-phs {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 101rem;
+  top: 34.2rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #bce8f6;
+  border-radius: 2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .counseling-FYH {
+  width: 7rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 102.4rem;
+  top: 35rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-44-L3w {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 113rem;
+  top: 34.2rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #71a1b1;
+  border-radius: 2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .support-1Qy {
+  width: 4.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 115.7rem;
+  top: 35rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .hotlines-H7b {
+  width: 5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 127.5rem;
+  top: 34.8rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .panic-attacks-moT {
+  width: 8.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 102.1rem;
+  top: 66rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .emergency-services-Fid {
+  width: 19rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 58rem;
+  top: 88rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #353535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .suicide-prevention-hotline-wLZ {
+  width: 24.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 101.6rem;
+  top: 88rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #353535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-27-chb {
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  left: 55.7rem;
+  top: 88.8rem;
+  background-color: #bce8f6;
+  border-radius: 0.2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-28-8A9 {
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  left: 99.5rem;
+  top: 88.8rem;
+  background-color: #bce8f6;
+  border-radius: 0.2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .dial-this-number-if-you-are-in-need-of-police-or-emergency-medical-services-for-mental-health-SAq {
+  width: 27.5rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 58rem;
+  top: 90.9rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .if-you-are-thinking-about-harming-yourself-and-seeking-free-and-confidential-emotional-support-to-people-in-crisis-HhF {
+  width: 32.7rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 101.6rem;
+  top: 90.9rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .union-EF7 {
+  width: 22.2rem;
+  height: 1rem;
+  position: absolute;
+  left: 9rem;
+  top: 95.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .union-WTX {
+  width: 24.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 8rem;
+  top: 90.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .union-pz1 {
+  width: 24.7rem;
+  height: 1rem;
+  position: absolute;
+  left: 8rem;
+  top: 90.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .union-8Uu {
+  width: 22.2rem;
+  height: 1rem;
+  position: absolute;
+  left: 9rem;
+  top: 95.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .emergency-resources--47f {
+  width: 24rem;
+  height: 9rem;
+  position: absolute;
+  left: 8.3rem;
+  top: 87.4rem;
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.125;
+  color: #353535;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .emergency-services-YHj {
+  width: 19rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 58rem;
+  top: 88rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #353535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .suicide-prevention-hotline-Dem {
+  width: 24.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 101.6rem;
+  top: 88rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #353535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-50-goF {
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  left: 55.7rem;
+  top: 88.8rem;
+  background-color: #bce8f6;
+  border-radius: 0.2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .rectangle-51-PSm {
+  width: 1rem;
+  height: 1rem;
+  position: absolute;
+  left: 99.5rem;
+  top: 88.8rem;
+  background-color: #bce8f6;
+  border-radius: 0.2rem;
+}
+.desktop-2-3FT .auto-group-7yzy-wrd .if-you-are-thinking-about-harming-yourself-and-seeking-free-and-confidential-emotional-support-to-people-in-crisis-HY9 {
+  width: 32.7rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 101.6rem;
+  top: 90.9rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-3FT .rectangle-52-82y {
+  margin-right: 33.3rem;
+  width: 145.5rem;
+  height: 108rem;
+  background-color: #f7fef9;
+  flex-shrink: 0;
+}
+.desktop-2-3FT .rectangle-50-Ebo {
+  margin-bottom: 13.8rem;
+  width: 1rem;
+  height: 1rem;
+  background-color: #bce8f6;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}

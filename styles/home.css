@@ -2,9 +2,26 @@
 html {
 	font-size:62.5%;
 }
+/* iframe {
+  margin-left: '90%';
+  z-index: -10;
+  margin: auto;
+} */
 * {
 	margin: 0;
 	padding: 0;
+}
+
+df-messenger {
+  --df-messenger-chat-background-color: "#EFF3F0";
+  --df-messenger-user-message: "#BCE8F6";
+  --df-messenger-bot-message: "#71A1B1";
+  --df-messenger-input-box-color:white;
+}
+
+#ChatBox {
+  margin-right: 20;
+  z-index: 30;
 }
 ul, li {
 	list-style: none;

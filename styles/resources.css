@@ -1,4 +1,23 @@
 
+
+.resourceLinker {
+  color: #242525;
+  text-decoration: none;
+  font-weight: 500;
+ 
+}
+
+
+
+.resourceLinker:hover {
+
+    color: #242525;
+    font-weight: bold;
+    text-decoration: underline;
+  
+}
+
+
 html {
 	font-size:62.5%;
 }
